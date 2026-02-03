@@ -24,6 +24,3 @@ Aplicacion construida con React que consume la PokeAPI para mostrar informacion 
 
 npm install
 npm run dev
-
-## Licencia
-MIT
